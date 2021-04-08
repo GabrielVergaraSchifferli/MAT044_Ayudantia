@@ -13,7 +13,8 @@
 ## Ayudantías de Cátedra
 
 ## Enlace Binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GabrielVergaraSchifferli/MAT044_Ayudantia/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GabrielVergaraSchifferli/MAT044_Ayudantia/main)
+
 
 Las ayudantías serán realizadas en RISE Jupyter, todos los códigos se podrán correr en un ambiente virtual proporcionado por Binder de forma que el usuario no requiera tener instalado Python con sus respectivos paquetes.
 
