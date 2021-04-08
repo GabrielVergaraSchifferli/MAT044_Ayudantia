@@ -8,7 +8,7 @@
 </br>
 
 
-# MAT281 - Aplicaciones de la Matemática en la Ingeniería
+# MAT044 - Probabilidad y Estadística para Ingeniería Civil
 
 ## Portafolio Personal
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GabrielVergaraSchifferli/mat281_portfolio/master?urlpath=lab)
