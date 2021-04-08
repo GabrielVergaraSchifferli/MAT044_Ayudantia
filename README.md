@@ -10,11 +10,15 @@
 
 # MAT044 - Probabilidad y Estadística para Ingeniería Civil
 
-## Portafolio Personal
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GabrielVergaraSchifferli/mat281_portfolio/master?urlpath=lab)
+## Ayudantías de Cátedra
 
-### Setup
+## Enlace Binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GabrielVergaraSchifferli/MAT044_Ayudantia/master?urlpath=lab)
 
-Las instrucciones de uso se encuentran en [este](setup.md) siguiente archivo. 
+Las ayudantías serán realizadas en RISE Jupyter, todos los códigos se podrán correr en un ambiente virtual proporcionado por Binder de forma que el usuario no requiera tener instalado Python con sus respectivos paquetes.
 
-Para aquellos usuarios de Windows que quieran sacar partido, se recomienda mirar también [este](wsl_ds_toolkit.md) archivo, mostrando un entorno de trabajo con WSL.
+Desde el ambiente virtual es seguro realizar cambios en los códigos puesto que estarán siendo ejecutadas en el ambiente virtual sin modificar este repositorio.
+
+## Dudas y consultas
+Todas las dudas y/o consultas enviar a mi correo **gabriel.vergara@sansano.usm.cl** o bien consultar directamente por whatsapp **+56977060184**.
+
