@@ -16,7 +16,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GabrielVergaraSchifferli/MAT044_Ayudantia/main)
 
 
-Las ayudantías serán realizadas en RISE Jupyter, todos los códigos se podrán correr en un ambiente virtual proporcionado por Binder de forma que el usuario no requiera tener instalado Python con sus respectivos paquetes.
+En caso de ayudantías realizadas en RISE Jupyter, todos los códigos se podrán correr en un ambiente virtual proporcionado por Binder de forma que el usuario no requiera tener instalado Python con sus respectivos paquetes.
 
 Desde el ambiente virtual es seguro realizar cambios en los códigos puesto que estarán siendo ejecutadas en el ambiente virtual sin modificar este repositorio.
 
