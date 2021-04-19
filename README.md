@@ -19,6 +19,9 @@
 En caso de ayudantías realizadas en RISE Jupyter, todos los códigos se podrán correr en un ambiente virtual proporcionado por Binder de forma que el usuario no requiera tener instalado Python con sus respectivos paquetes.
 
 Desde el ambiente virtual es seguro realizar cambios en los códigos puesto que estarán siendo ejecutadas en el ambiente virtual sin modificar este repositorio.
+## Enlace Google Drive
+Link de videos:
+https://drive.google.com/drive/folders/1Z6V5mAbw_JqeYWpDgsOt7rcNJeJmd_yB?usp=sharing
 
 ## Dudas y consultas
 Todas las dudas y/o consultas enviar a mi correo **gabriel.vergara@sansano.usm.cl** o bien consultar directamente por whatsapp **+56977060184**.
